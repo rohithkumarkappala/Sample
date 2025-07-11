@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from MAIN branch - updated again" << endl;
+    cout << "Merged: TEMP and MAIN versions" << endl;
     return 0;
 }
